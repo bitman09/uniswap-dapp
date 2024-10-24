@@ -1,6 +1,6 @@
-# Swap dApp
+# Ethereum Swap App
 
-This project is a tutorial on building a React dApp that allows users to swap ETH for UNI tokens using Uniswap's smart contracts. The tutorial utilizes the Uniswap SDK to interact with the contracts and create a custom frontend for token swapping.
+This tutorial guides users through building a React dApp that enables swapping ETH for UNI tokens via Uniswap's smart contracts. It leverages the Uniswap SDK to interact with these contracts and develop a custom frontend for executing token swaps.
 
 ## Prerequisites
 
