@@ -90,10 +90,8 @@ Make sure to thoroughly test the functionality of the dApp on the Goerli testnet
 
 # Contact Info
 
-Telegram: [@diasibt](https://t.me/@diasibt)
+LinkedIn: [@Ljubomir Igic](https://www.linkedin.com/in/ljubomir-igic-6a9615340)
 
-X: [@DiasIbt101](https://x.com/DiasIbt101)
-
-Discord: [@dias_ishbulatov](https://discordapp.com/users/1213745904599961631)
+Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
 
 thanks
